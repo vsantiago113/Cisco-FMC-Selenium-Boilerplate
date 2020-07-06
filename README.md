@@ -4,7 +4,7 @@ A boilerplate to do automation on the web browser using selenium to automate tas
 ---
 
 #### Python Selenium Docs
-[Docs](https://selenium-python.readthedocs.io/)
+<a href="https://selenium-python.readthedocs.io/" target="_blank">Docs</a>
 
 #### Download Chrome drivers
-[Chrome Driver Download](https://chromedriver.chromium.org/downloads 'Chrome Driver')<br />
+<a href="https://chromedriver.chromium.org/downloads" target="_blank">Chrome Driver Download</a>
